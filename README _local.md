@@ -1,4 +1,4 @@
-- 20211208 => testing....
+- 20211208 => testing.... / pulling
 
 <!---
 IZUSD3V/IZUSD3V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
